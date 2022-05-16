@@ -60,3 +60,30 @@ p, span
     font-size:25px;
     
   }
+
+button{
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  background-color: yellow;
+  border: 2.5px solid red;
+}
+
+#normal{
+  float: left;
+  margin-left: 100px;
+}
+
+#bold{
+  float: none;
+}
+
+#bolder{
+  float: right;
+  margin-right: 100px;
+}
+
+#color{
+  float: left;
+  margin-left: 100px;
+}
